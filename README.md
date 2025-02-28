@@ -7,9 +7,9 @@ Je suis un passionné de **sciences et de technologies** 🎯 !
 📌 J'écris sur **une théorie mettant en avant un changement de paradigme concernant la compréhension de notre univers ** et je travaille sur **des systèmes embarqués**.
 
 🚀 Mes compétences :
-- ✅ [Compétence 1]
-- ✅ [Compétence 2]
-- ✅ [Compétence 3]
+- ✅ Firmware, codage en c sous systèmes embarqués (Pic, STM32, ATMEGA)
+- ✅ Hardware, développement de cartes électroniques analogique/numérique
+- ✅ Software sous Raspberry (Qt Creator) et Windows (Visual Studio)
 
 💡 **Je suis toujours en quête de nouvelles opportunités et collaborations !**
 
@@ -24,7 +24,7 @@ Je suis un passionné de **sciences et de technologies** 🎯 !
 ---
 
 ## 🌐 Retrouve-moi ici :
-📌 **Portfolio** : [ton-site.com](https://ton-site.com)  
+📌 **Portfolio** : [ton-site.com](https://philricardson.fr)  
 📌 **LinkedIn** : [tonprofil](https://linkedin.com/in/tonprofil)  
 📌 **Twitter** : [@tonpseudo](https://twitter.com/tonpseudo)  
 
