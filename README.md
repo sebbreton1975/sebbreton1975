@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Séb !
 
-![GitHub Profile Banner](https://source.unsplash.com/1200x300/?nature,technology)
+![bann2](https://github.com/user-attachments/assets/565ca054-a265-4b39-9f5d-5f2d766bf26f)
 
 ## 🌍 Qui suis-je ?
 Je suis un passionné de **sciences et de technologies** 🎯 !  
@@ -49,6 +49,3 @@ Je suis un passionné de **sciences et de technologies** 🎯 !
 ---
 
 ✨ **Merci d'avoir visité mon profil !** 😊
-
-
-![amphilophorme_Reprsentation_de_cycles_locaux_de_compression_e_cc5ec7e5-b007-4e41-88d6-eb4a9c3ab4a0_3](https://github.com/user-attachments/assets/ab5fde30-7017-4e20-a094-35113e4da747)
