@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![amphilophorme_Illustration_de_lunivers_en_tant_quentit_dynami_e0549ada-fc10-4026-9890-10911a8523dd_3](https://github.com/user-attachments/assets/df89d27b-71ee-4308-852c-0b2f49f00737)
+
+![amphilophorme_Reprsentation_de_cycles_locaux_de_compression_e_cc5ec7e5-b007-4e41-88d6-eb4a9c3ab4a0_3](https://github.com/user-attachments/assets/ab5fde30-7017-4e20-a094-35113e4da747)
