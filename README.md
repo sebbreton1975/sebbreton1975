@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Séb !
 
-![bann2](https://github.com/user-attachments/assets/565ca054-a265-4b39-9f5d-5f2d766bf26f)
+![DALL·E 2025-02-28 16 42 20 - A futuristic and artistic GitHub banner featuring a blend of science, technology, and writing  The background showcases a cosmic space scene with star](https://github.com/user-attachments/assets/a65801a5-2e56-413e-a32d-16f0813feddc)
 
 ## 🌍 Qui suis-je ?
 Je suis un passionné de **sciences et de technologies** 🎯 !  
