@@ -4,7 +4,7 @@
 
 ## 🌍 Qui suis-je ?
 Je suis un passionné de **sciences et de technologies** 🎯 !  
-📌 J'écris sur **une théorie mettant en avant un changement de paradigme concernant la compréhension de notre univers ** et je travaille sur **des systèmes embarqués**.
+📌 J'écris sur **une nouvelle théorie** mettant en avant un changement de paradigme concernant la compréhension de notre univers ** et je travaille sur **des systèmes embarqués**.
 
 🚀 Mes compétences :
 - ✅ Firmware, codage en c sous systèmes embarqués (Pic, STM32, ATMEGA)
@@ -24,9 +24,8 @@ Je suis un passionné de **sciences et de technologies** 🎯 !
 ---
 
 ## 🌐 Retrouve-moi ici :
-📌 **Portfolio** : [ton-site.com](https://philricardson.fr)  
+📌 **Portfolio** : [[ton-site.com](https://philricardson.fr)](https://philricardson.fr)  
 📌 **LinkedIn** : [tonprofil](https://linkedin.com/in/tonprofil)  
-📌 **Twitter** : [@tonpseudo](https://twitter.com/tonpseudo)  
 
 ---
 
