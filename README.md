@@ -3,8 +3,8 @@
 ![DALL·E 2025-02-28 16 42 20 - A futuristic and artistic GitHub banner featuring a blend of science, technology, and writing  The background showcases a cosmic space scene with star](https://github.com/user-attachments/assets/a65801a5-2e56-413e-a32d-16f0813feddc)
 
 ## 🌍 Qui suis-je ?
-Je suis un passionné de **sciences et de technologies** 🎯 !  
-📌 J'écris sur **une nouvelle théorie** mettant en avant un changement de paradigme concernant la compréhension de notre univers ** et je travaille sur **des systèmes embarqués**.
+
+"Ingénieur multifacettes, je suis également écrivain passionné et chercheur autodidacte. Cette combinaison unique d'expertises me confère une perspective atypique et innovante, me permettant d'aborder des problématiques complexes avec une vision multidisciplinaire et une grande capacité d'adaptation." 🎯
 
 🚀 Mes compétences :
 - ✅ Firmware, codage en c sous systèmes embarqués 
@@ -15,12 +15,13 @@ Je suis un passionné de **sciences et de technologies** 🎯 !
 - ✅ Software, développements sous Qt (Linux) et Visual Studio (Windows dotnet)
       - Développement d'une chaîne image pour une caméra thermique sous Raspberry
       - Développement d'une chaîne de transmission de données vidéos (imagerie active à base de laser et d'intensificateur de lumière) entre une Raspberry et une application débarquée (DGA)
-      - Développement d'un robot immergeable 3 axes  pour une tête de découpe laser de 16kW (CEA)
+      - Etude, conception électronique, électrotechnique, informatique et mécanique ainsi que rédaction de livrables techniques (analyse fonctionnelle, PID, araignée de câblage...) en vue de la conception d’un robot 3                   axes immergeable à 6 mètres pour tête laser de découpage de 16kW (CEA)
       - Développement d'un détecteur de particules explosives (CEA)
 - ✅ Gestion de projets R&D / industriels
 - ✅ Electrotechnique
-      - Développement d'un procédé de 60kW (création de l'armoire électrique et mise en place opérationnelle) de mesure diphasique (CEA) à base de pompes 35kW et de capteurs (pression, débit, température)
-      - Développement de procédés d'extraction de tritium pour boîtes à gants (CEA)
+      - Etude et rédaction de livrables techniques (analyse fonctionnelle, analyse SIL, PID, araignée de câblage, implantations 2D de l'armoire électrique, nomenclature...) en vue de la conception électrotechnique d’un                  banc de test diphasique de 60kW à destination du CEA Saclay.
+      - Etude technique et rédaction de livrables techniques (araignées de câblage, cahiers de tests, nomenclatures, implantations 2D...) en vue de la conception électrotechnique de 3 machines spéciales
+               (CEA projets « spécial France » et « diffusion restreinte »)
 
 💡 **Je suis toujours en quête de nouvelles opportunités et collaborations !**
 
