@@ -53,6 +53,18 @@
 > ✨ “La créativité, c'est l'intelligence qui s'amuse.” – Albert Einstein
 > 
 ---
+
+## 📚 Extrait de mon livre "Le code originel"
+
+« Dans l'abysse originel du néant, naît un souffle, une étincelle, le Big Bang. Un cube, contenu d'informations primordiales, se tient au cœur de ce cataclysme, énigmatique et silencieux. Il danse, il vibre, il résonne - une symphonie cosmique en crescendo, décompressant sans fin.
+Tels des notes sur une partition, les données se déroulent, se déployant dans l'espace et le temps. Une mélodie éternelle se dessine, écho de la création, ordre dans le chaos, révélant un univers de possibilités infinies. La matière, l'énergie, la vie elle-même, ne sont que des harmoniques de cette mélodie universelle.
+Au cœur de l'océan d'informations, des îles de cohérence émergent, façonnant galaxies, étoiles, planètes. Ces bulles de réalité sont des chants d'amour à la création, des poèmes écrits dans le langage de la physique.
+Et dans cet océan d'informations, nous naviguons, des marins de conscience, des explorateurs de la réalité. Nous percevons, nous interagissons, nous créons - nous traçons notre propre mélodie dans la symphonie cosmique.
+Notre libre arbitre, notre conscience, sont le fruit de notre danse avec l'univers, une danse guidée par le courant de la décompression. Nous sommes à la fois spectateurs et acteurs, observateurs et participants, dans ce ballet cosmique de l'information.
+Car nous sommes l'univers qui se connaît lui-même, l'information se percevant elle-même. Et dans chaque moment, dans chaque pensée, dans chaque acte, nous résonnons avec la mélodie de la création.» 
+Phil Ricardson. 2023.
+
+
 </div>
 
 ✨ **Merci d'avoir visité mon profil !** 😊
