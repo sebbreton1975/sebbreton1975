@@ -6,7 +6,9 @@
 <div align="justify">
 "Ingénieur multifacettes, je suis également écrivain passionné et chercheur autodidacte. Cette combinaison unique d'expertises me confère une perspective atypique et innovante, me permettant d'aborder des problématiques complexes avec une vision multidisciplinaire et une grande capacité d'adaptation." 🎯
 
-🚀 Quelques-uns de mes projets :
+---
+
+## 🚀 Quelques-uns de mes projets :
 - ✅ Firmware, codage en c sous systèmes embarqués
   - IoT : systèmes de mesure métrologique et communication (BLE, MQTT) sous Atmega et
   - Développement d'interfaces homme-machines sans contact
