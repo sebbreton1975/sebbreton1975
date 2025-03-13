@@ -18,6 +18,9 @@ Je suis un passionné de **sciences et de technologies** 🎯 !
       - Développement d'un robot immergeable 3 axes  pour une tête de découpe laser de 16kW (CEA)
       - Développement d'un détecteur de particules explosives (CEA)
 - ✅ Gestion de projets R&D / industriels
+- ✅ Electrotechnique
+      - Développement d'un procédé de 60kW (création de l'armoire électrique et mise en place opérationnelle) de mesure diphasique (CEA) à base de pompes 35kW et de capteurs (pression, débit, température)
+      - Développement de procédés d'extraction de tritium pour boîtes à gants (CEA)
 
 💡 **Je suis toujours en quête de nouvelles opportunités et collaborations !**
 
@@ -30,24 +33,12 @@ Je suis un passionné de **sciences et de technologies** 🎯 !
 
 ---
 
-## 📚 Mes Derniers Écrits
-📖 **[Titre de ton livre/article](#)**  
-📖 **[Autre projet intéressant](#)**  
-
-> ✨ “La créativité, c'est l'intelligence qui s'amuse.” – Albert Einstein
-
----
-
 ## 🌐 Retrouve-moi ici :
-📌 **Lien vers mes livres** : [[ton-site.com](https://philricardson.fr)](https://philricardson.fr)  
+📌 **Lien vers mes livres** : [(https://philricardson.fr)](https://philricardson.fr)  
 📌 **LinkedIn** : [tonprofil](https://linkedin.com/in/tonprofil)  
 
----
-
-## 🎨 Mon Travail en Images
-![Projet 1](https://source.unsplash.com/600x300/?coding)
-![Projet 2](https://source.unsplash.com/600x300/?books,writing)
-
+> ✨ “La créativité, c'est l'intelligence qui s'amuse.” – Albert Einstein
+> 
 ---
 
 
