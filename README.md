@@ -3,7 +3,7 @@
 ![DALL·E 2025-02-28 16 42 20 - A futuristic and artistic GitHub banner featuring a blend of science, technology, and writing  The background showcases a cosmic space scene with star](https://github.com/user-attachments/assets/a65801a5-2e56-413e-a32d-16f0813feddc)
 
 ## 🌍 Qui suis-je ?
-
+<div align="justify">
 "Ingénieur multifacettes, je suis également écrivain passionné et chercheur autodidacte. Cette combinaison unique d'expertises me confère une perspective atypique et innovante, me permettant d'aborder des problématiques complexes avec une vision multidisciplinaire et une grande capacité d'adaptation." 🎯
 
 🚀 Quelques-uns de mes projets :
@@ -53,6 +53,6 @@
 > ✨ “La créativité, c'est l'intelligence qui s'amuse.” – Albert Einstein
 > 
 ---
-
+</div>
 
 ✨ **Merci d'avoir visité mon profil !** 😊
